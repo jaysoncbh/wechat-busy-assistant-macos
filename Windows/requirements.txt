@@ -1,0 +1,4 @@
+pywinauto>=0.6.8,<0.7
+psutil>=5.9,<8
+wechatauto-replica==1.2.4.4
+pypinyin>=0.48,<1

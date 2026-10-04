@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+config.json
+*.jsonl
+.uv-cache/
+.uv-python/
+.state/
+wechatauto_logs/

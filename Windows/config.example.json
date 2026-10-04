@@ -1,0 +1,11 @@
+{
+  "contact": "请替换为微信中目标好友的准确显示名",
+  "backend": "database",
+  "activity": "我现在忙于工作，暂时无法亲自回复。",
+  "tone": "自然、简短、友好",
+  "duration_minutes": 30,
+  "max_replies": 5,
+  "poll_seconds": 2,
+  "model": "deepseek-flash",
+  "window_title_regex": "^(微信|WeChat)( - .*)?$"
+}
